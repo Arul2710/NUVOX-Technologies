@@ -117,7 +117,7 @@ export function Contact() {
                 <div className="relative h-64 w-full">
                   <iframe
                     title={`${COMPANY.name} office location`}
-                    src="https://www.google.com/maps?q=New+York,NY&output=embed"
+                    src="https://www.google.com/maps?q=35PV%2BVJ7%2C+Govt+Officers+Colony%2C+Thirumangalam%2C+Chennai%2C+Tamil+Nadu%2C+India&output=embed"
                     className="h-full w-full border-0 grayscale-[35%]"
                     loading="lazy"
                     referrerPolicy="no-referrer-when-downgrade"
